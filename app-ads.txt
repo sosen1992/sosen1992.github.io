@@ -11,6 +11,8 @@ bidmachine.io,1,DIRECT
 bidmachine.io,466,DIRECT
 
 #AdMob
+#Meta Audience Network
+facebook.com, 182908778240892, DIRECT, c3fc74148d1c1410
 
 #Replace the Publisher_ID below with your Admob Publisher ID
 
